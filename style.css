@@ -114,3 +114,10 @@ ul {
   font-size: 0.9rem;
   opacity: 0.8;
 }
+
+@media (min-width: 576px) {
+  #card {
+    width: 550px;
+    height: 400px;
+  }
+}
